@@ -1,4 +1,4 @@
-## Hi there 👋
+这是一个脑电数据集，数据将在论文正式发表后公开## Hi there 👋
 
 <!--
 **TCDEED/TCDEED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
