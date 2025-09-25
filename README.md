@@ -8,7 +8,7 @@ This dataset was collected using a 60-channel ESI NeuroScan system and contains 
 📌 Status:
 Currently under embargo until paper publication. The data and full documentation will be released here soon.
 
-If you're interested or have any questions, feel free to reach out via [240979848@qq.com].
+If you're interested or have any questions, feel free to reach out via [linmenxin9@gmail.com].
 
 <!--
 **TCDEED/TCDEED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
