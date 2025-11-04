@@ -1,8 +1,14 @@
 EEG Emotion Dataset (Coming Soon)
 This repository is for an upcoming EEG-based emotion recognition dataset.
 
-This dataset was collected using a 60-channel ESI NeuroScan system and contains multi-channel EEG signals recorded from participants under audiovisual stimuli. It is intended to support research in affective computing and brain–computer interfaces. All experiments were approved by the ethics committee, and written informed consent was obtained from all participants. The electrode distribution is shown in the figure below. The dataset and related code will be released on a public platform after the official publication of the associated paper, accompanied by the necessary experimental description and user guidelines.
+This dataset was collected using a 60-channel ESI NeuroScan system and contains multi-channel EEG signals recorded from participants under audiovisual stimuli. It is intended to support research in affective computing and brain–computer interfaces. All experiments were approved by the ethics committee, and written informed consent was obtained from all participants. 
+The dataset and related code will be released on a public platform after the official publication of the associated paper, accompanied by the necessary experimental description and user guidelines.
 
+
+<img width="782" height="511" alt="Data_TCDEED" src="https://github.com/user-attachments/assets/52b87e55-92ce-4e7a-8ab8-ceef6f23e148" />
+
+
+The electrode distribution is shown in the figure below.
 ![EEG_Channels](https://github.com/user-attachments/assets/19603db8-1ef0-43ec-97a1-02b7d47dd49b)
 
 📌 Status:
