@@ -1,4 +1,7 @@
-This directory is intended to host the related code. As the paper is currently under review, the code is not publicly available at this stage. It will be uploaded and released for research use immediately upon the paper’s official publication.
+This directory is intended to host the model-related code. To ensure the integrity of the peer-review process, only partial implementations are currently provided,
+while the core components are not fully disclosed. Once the paper is officially published, we will promptly release the complete code for all modules and make it 
+publicly available to support reproducibility and further academic research.
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
 import torch
 import os
