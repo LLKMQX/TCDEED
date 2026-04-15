@@ -49,7 +49,7 @@ def mmd(source, target, kernel_mul=2.0, kernel_num=5, fix_sigma=None):
     loss = torch.mean(XX + YY - XY -YX)
     return loss
 
-dataset_path = {'SEED_IV': 'eeg_feature_smooth', 'SEED': 'ExtractedFeatures' , 'TCDEED': 'Extracted' }
+dataset_path = {'SEED_IV': 'eeg_feature_smooth', 'SEED': 'ExtractedFeatures' , 'TCDEED': 'Data_Processing_Features' }
 def get_allmats_name(dataset_name):
     path = dataset_path[dataset_name]
     sessions = os.listdir(path)
